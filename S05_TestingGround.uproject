@@ -19,5 +19,12 @@
 			"Name": "OculusVR",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"HTML5",
+		"LinuxNoEditor",
+		"WindowsNoEditor"
 	]
 }
